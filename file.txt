@@ -1,4 +1,10 @@
 hey hows you doing i am doing well now i am very sleepy right now.
+
 arr4=5
 arr2=arr4+5
 print(arr2)
+
+arr=3
+arr1=arr+1
+print(arr1)
+
